@@ -1,19 +1,17 @@
-🎨Title 
-## MarykayDesigns
+# 🎨Title 
+##  MarykayDesigns
 
-📝Description
+# 📝Description
 
 
-🔖User Story
-AS an employer 
-I want to view a potential employee's delpoyed portfolio of of work samples 
-So that I can review samples of their work and asses whether they're a good candidate for an open position 
+# 🔖User Story
+## As an employer I want to view a potential employee's delpoyed portfolio of of work samples so that I can review samples of their work and asses whether they're a good candidate for an open position 
 
-🍱Table of Contents
+# 🍱Table of Contents
 
-📸Screenshots
+# 📸Screenshots
 
-🚀Deployment 
+# 🚀Deployment 
 
-👥Creditors
+# 👥Creditors
 Lemseh Carothers-Abdullah https://www.github:lemsehcar
